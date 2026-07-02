@@ -3,3 +3,4 @@ Streamlit
 Huggingface_hub
 
 python-dotenv
+Groq
